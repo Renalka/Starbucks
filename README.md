@@ -66,4 +66,4 @@ III. Build a model that can predict the success of the offer.
 11. We built a Random Forest Classifier model with accuracy above 90% that predicts whether an offer will be successful or not- that is, if a customer will respond to an offer.1
 
 
-The detailed article on the findings can be found here[https://renalka.medium.com/starbucks-capstone-project-4b7135577021]
+The detailed article on the findings can be found [here](https://renalka.medium.com/starbucks-capstone-project-4b7135577021)
