@@ -64,3 +64,6 @@ III. Build a model that can predict the success of the offer.
 10. Offer id ‘fafdcd668e3743c1bb461111dcafc2a4’ has the highest success rate of 75% while offer id ‘5a8bc65990b245e5a138643cd4eb9837’ has the lowest success rate of just over 6%.
 
 11. We built a Random Forest Classifier model with accuracy above 90% that predicts whether an offer will be successful or not- that is, if a customer will respond to an offer.1
+
+
+The detailed article on the findings can be found here[https://renalka.medium.com/starbucks-capstone-project-4b7135577021]
