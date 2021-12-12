@@ -18,11 +18,11 @@ sklearn
 ### Data Dictionary
 
 The project analyses three separate datasets as contained in the data folder here:
-profile.json
-It contains the data points like demographics, date of joining, etc., on the various users and members of the rewards program.
-portfolio.json
-It contains information about the offers sent during 30-day test period. It describes the characteristics of each offer, like the type, its duration, etc.
-transcript.json
+profile.json\
+It contains the data points like demographics, date of joining, etc., on the various users and members of the rewards program.\
+portfolio.json\
+It contains information about the offers sent during 30-day test period. It describes the characteristics of each offer, like the type, its duration, etc.\
+transcript.json\
 It contains the event log, that is, whether the offer was received, viewed, or completed. It also contains the customer IDs as well as the offer IDs. It's the most extensive and biggest dataset of all three.
 
 ### Code
