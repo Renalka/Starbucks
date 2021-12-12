@@ -1,6 +1,4 @@
-# Starbucks-Capstone
-
-As a quest for learning data analytics and data science, I enrolled in the Udacity Data Science Nanodegree. The capstone project requirement is a challenge to analyze three datasets provided by Starbucks.
+# Starbucks
 
 # Installations
 This project requires Python 3.x and the following Python libraries installed:
@@ -19,7 +17,7 @@ sklearn
 
 ### Data Dictionary
 
-The challenge analyses three separate datasets as contained in the data folder here:
+The project analyses three separate datasets as contained in the data folder here:
 profile.json
 It contains the data points like demographics, date of joining, etc., on the various users and members of the rewards program.
 portfolio.json
